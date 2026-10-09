@@ -1,7 +1,7 @@
 from string import ascii_letters
 
-for i in ascii_letters:
-    for j in ascii_letters:
-        for k in ascii_letters:
-            for l in ascii_letters:
-                print(i, j, k, l)
+for a in ascii_letters:
+    for b in ascii_letters:
+        for c in ascii_letters:
+            for d in ascii_letters:
+                print(a, b, c, d)
